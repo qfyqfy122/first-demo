@@ -1,0 +1,13 @@
+<template>
+<div id="homePage">
+  <h1>{{ msg }}</h1>
+</div>
+</template>
+
+<script setup lang="ts">
+const msg="欢迎来到小祁网页，你将从这里开始学习项目学习之旅"
+</script>
+
+<style scoped>
+
+</style>
